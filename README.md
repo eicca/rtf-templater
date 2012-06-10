@@ -2,7 +2,7 @@
 
 This is a very simple gem designed to generate RTF documents from a given template.
 
-This gem is written in haste, but it works in most cases (I tested it on mac office, and TextEdit).
+This gem is written in haste, but it works in most cases (I tested it on: mac office, TextEdit, office 2007).
 
 It is heavily inspired by [Serenity](https://github.com/kremso/serenity).
 
