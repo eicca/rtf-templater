@@ -7,8 +7,8 @@ module RtfTemplater
     end
 
     def render_rtf content
-      template = Template.new
-      template.process content, binding
+      template = Template.new content
+      template.process binding
     end
 
   end
