@@ -14,4 +14,6 @@ Gem::Specification.new do |gem|
   gem.name          = "rtf-templater"
   gem.require_paths = ["lib"]
   gem.version       = RtfTemplater::VERSION
+
+  gem.add_development_dependency 'rspec', '>= 2.5'
 end
